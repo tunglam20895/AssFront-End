@@ -1,0 +1,1 @@
+<script>window.MBID="KHMwYHrWv";</script><script defer src="https://menu.metu.vn/static/js/sdk.js?container=body"></script>
